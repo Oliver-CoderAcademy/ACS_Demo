@@ -124,4 +124,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-PROJECT_ROOT   =   os.path.join(os.path.abspath(__file__))
+PROJECT_ROOT   =   os.path.join(os.path.abspath(__file__), 'demo')
